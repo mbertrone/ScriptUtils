@@ -1,0 +1,1 @@
+sudo $GOPATH/bin/hoverd
